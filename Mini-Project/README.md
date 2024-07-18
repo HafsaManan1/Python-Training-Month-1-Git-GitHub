@@ -1,0 +1,1 @@
+This repository contains a mini project to practice Git and GitHub.
